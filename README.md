@@ -1,5 +1,8 @@
 ### Hi there 👋
+I'm Patrick Amaral, Data Analyst and currently studying Data Science. I'm passionate about astronomy 🔭✨
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Phomint&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phomint&layout=compact&hide=pascal,html)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Phomint/Phomint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
